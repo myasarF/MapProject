@@ -1,0 +1,16 @@
+D:\google\end\MapApi\Map.EF\bin\Debug\netcoreapp3.1\Map.EF.deps.json
+D:\google\end\MapApi\Map.EF\bin\Debug\netcoreapp3.1\Map.EF.runtimeconfig.json
+D:\google\end\MapApi\Map.EF\bin\Debug\netcoreapp3.1\Map.EF.runtimeconfig.dev.json
+D:\google\end\MapApi\Map.EF\bin\Debug\netcoreapp3.1\Map.EF.dll
+D:\google\end\MapApi\Map.EF\bin\Debug\netcoreapp3.1\Map.EF.pdb
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.csprojAssemblyReference.cache
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.AssemblyInfoInputs.cache
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.AssemblyInfo.cs
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.csproj.CoreCompileInputs.cache
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.dll
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.pdb
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.genruntimeconfig.cache
+D:\google\end\MapApi\Map.EF\bin\Debug\netcoreapp3.1\Map.Core.dll
+D:\google\end\MapApi\Map.EF\bin\Debug\netcoreapp3.1\Map.Core.pdb
+D:\google\end\MapApi\Map.EF\obj\Debug\netcoreapp3.1\Map.EF.csproj.CopyComplete

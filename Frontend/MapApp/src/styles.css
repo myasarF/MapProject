@@ -1,0 +1,87 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+html,
+body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+.leaflet-container {
+	position: absolute;
+
+	height: 100%;
+	width: 85%;
+}
+#root {
+	width: 100%;
+	height: 100%;
+}
+#map-wrapper {
+	display: flex;
+	width: 85%;
+	height: 100%;
+}
+button {
+	display: inline-block;
+	background-color: #6122b9;
+	border-radius: 10px;
+	border: 4px double #cccccc;
+	color: #eeeeee;
+	text-align: center;
+	font-size: 25x;
+	padding: 10px;
+	width: 80%;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+  }
+  button span {
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+  }
+  button span:after {
+	content: '\00bb';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -20px;
+	transition: 0.5s;
+  }
+  button:hover {
+	background-color: #97367c;
+  }
+  button:hover span {
+	padding-right: 25px;
+  }
+  button:hover span:after {
+	opacity: 1;
+	right: 0;
+  }
+  .leaflet-draw-edit-remove {
+	background-color: #49be99;
+  }
+
+  #wrapper {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	
+  }
+  #first {
+	width: 85%;
+	height: 100%;
+	  /* border: 1px  */
+  }
+  #second {
+	width: 15%;
+	height: 100%;
+	  
+  }
+/* .leaflet-div-icon {
+  background: transparent;
+  border: none;
+} */

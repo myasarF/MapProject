@@ -1,0 +1,13 @@
+D:\google\end\MapApi\Map.Core\bin\Debug\netcoreapp3.1\Map.Core.deps.json
+D:\google\end\MapApi\Map.Core\bin\Debug\netcoreapp3.1\Map.Core.dll
+D:\google\end\MapApi\Map.Core\bin\Debug\netcoreapp3.1\Map.Core.pdb
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.AssemblyInfoInputs.cache
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.AssemblyInfo.cs
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.csproj.CoreCompileInputs.cache
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.dll
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.pdb
+D:\google\end\MapApi\Map.Core\bin\Debug\netcoreapp3.1\Map.Core.runtimeconfig.json
+D:\google\end\MapApi\Map.Core\bin\Debug\netcoreapp3.1\Map.Core.runtimeconfig.dev.json
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.csprojAssemblyReference.cache
+D:\google\end\MapApi\Map.Core\obj\Debug\netcoreapp3.1\Map.Core.genruntimeconfig.cache
